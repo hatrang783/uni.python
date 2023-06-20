@@ -1,0 +1,21 @@
+id,name,dob,gender,phone,address,email,doj,department,designation,salary
+220103043628,Tâm Điền,14-06-1997,Male,0943148043,HCM,tamdien@gmail.com,02-01-2022,IT,senior developer,20000
+230104051705,Ngọc Quỳnh Quỳnh,09-09-2002,Female,0100842598,Hai Phong,ngocquynh@gmail.com,12-04-2021,Marketing,specialist,8500
+230104051735,Trang Hà,07-08-2004,Female,0349842598,Hanoi,hatrang@gmail.com,18-08-2021,Marketing,developer,10000
+230104051759,Điền Nguyễn Tâm,14-06-1995,Female,0943148043,HCM,tamdien@gmail.com,02-01-2022,HR,senior developer,20000
+230104051901,Nguyễn Hà,08-08-2004,Female,0349842598,Hanoi,hatrang@gmail.com,18-08-2021,Marketing,developer,10000
+230104052000,Quỳnh Ngọc,09-09-2002,Female,0100842598,Hà Nội,ngocquynh@gmail.com,12-04-2021,Marketing,specialist,8500
+230104052452,Nguyễn Trang,07-08-2002,Female,0349842598,HCM,hatrang@gmail.com,18-08-2021,HR,specialist,10000
+230106224659,Lan Anh,01-03-1999,Female,098766547,HN,lananh@gmail.com,18-9-2021,HR,nv,1000
+230106235137,Hà Trang,07-08-2004,Female,0349842598,Hanoi,hatrang@gmail.com,18-08-2021,HR,developer,1500
+230106235455,Hà Trang,07-08-2002,Male,0349842598,Hanoi,hatrang2@gmail.com,18-08-2021,IT,developer,1500
+230107182612,Nguyễn Trang Hà,07-08-2000,Female,0349842598,HCM,hatrang@gmail.com,18-08-2021,HR,specialist,10000
+230108000126,Hà Trang,07-08-2003,Female,0349842598,Hanoi,hatrang@gmail.com,18-08-2021,HR,developer,10000
+230108000129,Ngọc Quỳnh,09-09-2003,Female,0100842598,Hai Phong,ngocquynh@gmail.com,12-04-2021,Marketing,specialist,8500
+230108000149,Điền Nguyễn Tâm,14-06-1995,Female,0943148043,HCM,tamdien@gmail.com,02-01-2022,HR,senior developer,20000
+230108000158,Điền Nguyễn Tâm,14-06-1995,Male,0943148043,HCM,tamdien@gmail.com,02-01-2022,HR,senior developer,20000
+230108000214,Nguyễn Trang Lan,07-08-2002,Male,0349842598,HCM,hatrang@gmail.com,18-08-2021,HR,specialist,10000
+230108000219,Quỳnh Ngọc,09-09-2002,Male,0100842598,Hà Nội,ngocquynh@gmail.com,12-04-2021,Marketing,specialist,8500
+230108000225,Lan Anh,01-03-1999,Male,098766547,HN,lananh@gmail.com,18-9-2021,HR,nv,1000
+230108000243,Quỳnh Trang,01-03-1999,Male,098766547,HN,lananh@gmail.com,18-9-2021,HR,nv,1000
+230108000246,Quỳnh Trang,01-03-1999,Female,098766547,HN,lananh@gmail.com,18-9-2021,HR,nv,1000
